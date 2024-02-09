@@ -1,4 +1,4 @@
-package ua.hillel.yatsenko.homeworks;
+package ua.hillel.yatsenko.homeworks.HW1;
 
 public class HomeWorkApp
 {
